@@ -14,6 +14,14 @@ This is The latest Script For Downloading Youtube Videos with your Termux. Downl
 </p>
 <br>
 
+
+<h3 align="center">𝔽𝕆𝕃𝕃𝕆𝕎 𝕄𝔼 𝕆ℕ<img align="center" src="https://github.com/Gowtham2003/Gowtham2003/blob/master/assets/Handshake.gif" height="33px" /></h3>
+<p align="center">
+<a href="https://www.instagram.com/inzi_135"><img alt="Instagram" src="https://img.shields.io/badge/𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://t.me/M_STER_TECH"><img alt="Telegram" src="https://img.shields.io/badge/𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</p>
+
+
 ### Me:
 Maker👨‍💻: https://github.com/PANDITHAN <br>
 
