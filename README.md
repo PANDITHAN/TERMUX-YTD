@@ -17,27 +17,27 @@ This is The latest Script For Downloading Youtube Videos with your Termux. Downl
 # INSTALLATION TOOL
 YouTube vedio download tool using termux
 
-$ pkg update
+$ `pkg update`
 
-$ pkg upgrade
+$ `pkg upgrade`
 
-$ pkg install python
+$ `pkg install python`
 
-$ pkg intall python2
+$ `pkg intall python2`
 
-$ pkg install git -y
+$ `pkg install git -y`
 
-$ git clone https://github.com/PANDITHAN/TERMUX-YTD/
+$ `git clone https://github.com/PANDITHAN/TERMUX-YTD/`
 
-$ ls
+$ `ls`
 
-$ cd TERMUX-YTD
+$ `cd TERMUX-YTD`
 
-$ ls
+$ `ls`
 
-$ chmod +x *
+$ `chmod +x *`
 
-$ bash install.sh
+$ `bash install.sh`
 
 
 <h3 align="center">𝔽𝕆𝕃𝕃𝕆𝕎 𝕄𝔼 𝕆ℕ<img align="center" src="https://github.com/Gowtham2003/Gowtham2003/blob/master/assets/Handshake.gif" height="33px" /></h3>
